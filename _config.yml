@@ -16,11 +16,8 @@ plugins:
 
 #--------------------------------------------------------------------------#
 
-url: 
-  - "https://suj0.github.io"
-title:
-  - "suj0"
-name:
-  - "suj0 blog"
-description:
-  - "testing"
+url:                  "https://suj0.github.io"
+title:                "suj0"
+name:                 "suj0 blog"
+description:          "testing"
+style:                "light"
