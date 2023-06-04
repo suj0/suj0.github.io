@@ -3,7 +3,11 @@ title: /
 layout: home
 permalink: /
 ---
-what
+title: what
+layout: is
+permalink: this
+---
+
 
 
 # Lorem ipsum
