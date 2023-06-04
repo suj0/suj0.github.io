@@ -1,10 +1,9 @@
 ---
 title: /
 layout: home
-permalink: /
-title: what
-layout: is
-permalink: this
+permalink: 
+  - /
+  - no
 ---
 
 
