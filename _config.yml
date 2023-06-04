@@ -21,3 +21,4 @@ title:                "suj0"
 name:                 "suj0 blog"
 description:          "testing"
 style:                "light"
+remote_theme: b2a3e8/jekyll-theme-console
